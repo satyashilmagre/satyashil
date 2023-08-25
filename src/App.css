@@ -1,0 +1,137 @@
+.main {
+  background-color: aqua;
+  display: flex;
+  padding-right: 20px;
+}
+nav.hover{
+  color: #6528F7;
+}
+.navbag {
+  background-color: #91C8E4;
+
+}
+
+.navfont {
+  font-family: 'Borel', cursive;
+  color: white;
+}
+
+.bgimage {
+  width: 100%;
+  height: 45rem;
+  opacity: 0.8;
+}
+
+.meimage {
+  position: absolute;
+  top: 10rem;
+  left: 60rem;
+}
+
+.name {
+  position: absolute;
+  top: 12rem;
+  left: 10rem;
+  line-height: 5
+}
+
+.lname {
+  color: orange;
+}
+
+.dev {
+  color: #6528F7;
+}
+.button{
+  background-color: #6528F7;
+}
+.logo{
+  width:40px;
+  margin: 5px;
+}
+.bgcolor{
+  background-color: #FDE5EC;
+  padding: 42px 0;
+}
+.chaticon{
+  width: 60px;
+  position: absolute;
+  top: 40rem;
+  right: 5rem;
+  position: fixed;
+}
+.inptext{
+  background-color: #3c0dab;
+  color: #79E0EE;
+  height: 38px; 
+  width: 270px;
+  margin-left: 110px;
+  margin-top: 20px;
+  border-radius:20px;
+  padding: 6px;
+  
+  
+}
+.inputs{
+   flex-direction: column;
+}
+.chatbot{
+  height: 38rem;
+  width: 25rem;
+  color: #6528F7;
+  background-color: #F9FBE7;
+  border-radius: 10px;
+  margin-left:36%;
+  margin-top:0rem;
+  overflow: auto;
+
+}
+.chathead{
+  height: 3.5rem;
+  display: flex;
+  background-color:#79E0EE;
+  border-top-right-radius:10px;
+  border-top-left-radius:10px;
+  padding: 12px;
+  justify-content: space-between;
+  
+}
+.logobot{
+  width: 32px;
+  height: 28px;
+  
+}
+.logobots{
+  width: 26px;
+  margin-top:5px;
+  margin-right: 5px;
+  /* margin-left:35px; */
+}
+.restartbtn{
+  width: 27px;  
+}
+.bothead{
+  color: rgb(255, 255, 255);
+  font-size:18px;
+  padding-top:8px;
+}
+.input{
+  display: flex;
+  margin-top: 4px;
+}
+.botinput{
+  width: 22.5rem;
+  /* color: #6528F7; */
+  padding: 10px;
+  margin-left:36%;
+  border: none;
+  outline: none;
+  background-color: #79E0EE;
+  border-radius: 20px;
+} 
+.sendicon{
+  width: 28px;
+  height: 30px;
+  margin-top: 6px;
+  margin-left: 5px;
+}
