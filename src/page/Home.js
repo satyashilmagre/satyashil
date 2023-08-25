@@ -55,7 +55,7 @@ const Home = () => {
           <img src='image/robot.png' alt='chatboticon' className='chaticon' />
         </Link> }
       </div>
-      <h2>Numbers {data} </h2>
+      <h2>Number {data} </h2>
       <button onClick={()=>Setdata(data+1)}>increse</button>
       <button onClick={()=>Setdata(data-1)}>decreses</button>
       
