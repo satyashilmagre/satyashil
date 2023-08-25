@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/satyshil/static/css/main.e17a0efd.css",
+    "main.js": "/satyshil/static/js/main.f076a449.js",
+    "static/js/787.fb17ab71.chunk.js": "/satyshil/static/js/787.fb17ab71.chunk.js",
+    "index.html": "/satyshil/index.html",
+    "main.e17a0efd.css.map": "/satyshil/static/css/main.e17a0efd.css.map",
+    "main.f076a449.js.map": "/satyshil/static/js/main.f076a449.js.map",
+    "787.fb17ab71.chunk.js.map": "/satyshil/static/js/787.fb17ab71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e17a0efd.css",
+    "static/js/main.f076a449.js"
+  ]
+}
